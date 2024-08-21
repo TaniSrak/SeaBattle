@@ -26,7 +26,7 @@ namespace SeaBattle
     }
 
     //Типы кораблей
-    public enum ShipType { x4, x3, x2, x1 }
+    public enum ShipType { x4 = 1, x3 = 2, x2 = 3, x1 = 4 }
 
     // Направление кораблей
     public enum Direction 
